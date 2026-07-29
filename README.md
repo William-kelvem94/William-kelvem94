@@ -19,6 +19,19 @@ Privacidade, organização e simplicidade operacional vêm antes de enfeite.
 
 </div>
 
+<div align="center">
+
+```
+╭──────────────────────────────────────────────╮
+│          W I L L I A M   K E L V E M         │
+│      LOCAL AI  •  AUTOMATION  •  WEB         │
+│                                              │
+│        Build locally. Ship usefully.         │
+╰──────────────────────────────────────────────╯
+```
+
+</div>
+
 ## Sobre mim
 
 - Desenvolvedor focado em soluções locais e integradas
